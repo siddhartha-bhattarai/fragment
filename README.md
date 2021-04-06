@@ -1,18 +1,2 @@
 # fragment
-FragmentExample - Homework
-====================================
-<b>Homework</b>
-<br />
-<img src="fragmenthomework.gif" width="250" height="400">
-<br />
-<b>Home</b>
-<br />
-<img src="home.png" width="250" height="400">
-<br />
-Next
-<br />
-<img src="next.png" width="250" height="400">
-<br />
-<b>Open</b>
-<br />
-<img src="open.png" width="250" height="400">
+![f1](https://user-images.githubusercontent.com/41037921/113738541-b8318c00-971e-11eb-8a7d-d7cd0628059d.gif)
